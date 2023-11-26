@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ae7b3c5.css",
+    "main.js": "/static/js/main.3a5a3b13.js",
+    "static/media/p1.png": "/static/media/p1.12ea8955170cc7dbac8e.png",
+    "static/media/p2.png": "/static/media/p2.48ca49e282cbd265e6f4.png",
+    "static/media/girl_me.png": "/static/media/girl_me.ab559ccdfd004e7adf47.png",
+    "static/media/p3.png": "/static/media/p3.972d16e91bf620ac4b90.png",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/anishav.pdf": "/static/media/anishav.99b6872e8b7a9dd6f809.pdf",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "index.html": "/index.html",
+    "main.1ae7b3c5.css.map": "/static/css/main.1ae7b3c5.css.map",
+    "main.3a5a3b13.js.map": "/static/js/main.3a5a3b13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ae7b3c5.css",
+    "static/js/main.3a5a3b13.js"
+  ]
+}
