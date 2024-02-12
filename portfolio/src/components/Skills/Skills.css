@@ -1,0 +1,39 @@
+.skill {
+  height: 30rem;
+  margin-bottom: 2rem;
+  margin-top: 9rem;
+}
+.skill > span {
+  display: block;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: var(--orange);
+  margin-bottom: 2rem;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 2rem;
+  padding-left: 5rem;
+}
+.skills_skill {
+  padding: 1rem 2rem;
+  margin-bottom: 1.5rem;
+  margin-right: 1.5rem;
+  font-size: 1.6rem;
+  background: rgba(153, 153, 153, 0.2);
+  border-radius: 5px;
+  font-weight: 600;
+  color: #666;
+}
+@media screen and (max-width: 480px) {
+  .skill {
+    flex-direction: column;
+    height: 55rem;
+    padding-top: 5rem;
+    gap: 5rem;
+    margin-bottom: 25rem;
+  }
+}

@@ -1,0 +1,44 @@
+.project {
+  margin-top: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 85vh;
+}
+.project > span {
+  color: var(--orange);
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.project .swiper {
+  overflow: visible !important;
+}
+.project-slider {
+  margin-top: 3rem;
+  width: 100%;
+}
+.project-slider .swiper-slide {
+  width: 35rem;
+}
+.project img {
+  width: 34rem;
+  filter: drop-shadow(-12px 15px 13px rgba(0, 0, 0, 0.25));
+  border-radius: 19px;
+}
+.project a {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 2rem;
+  color: var(--orange);
+}
+@media screen and (max-width: 480px) {
+  .project {
+    padding-top: 6rem;
+  }
+  .project a {
+    display: none;
+  }
+}
